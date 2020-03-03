@@ -14,7 +14,7 @@ group :development, :test do
    gem 'pg'
  end
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sassc', '~> 2.1.0'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
